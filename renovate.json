@@ -14,7 +14,8 @@
             "labels": [
                 "dependencies::docker"
             ],
-            "groupName": "Docker"
+            "groupName": "Docker",
+            "groupSlug": "docker"
         }
     ]
 }
